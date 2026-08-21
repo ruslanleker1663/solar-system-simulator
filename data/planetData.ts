@@ -52,7 +52,7 @@ export const PLANET_DETAILS: Record<PlanetName, PlanetDetail> = {
   Uranus: {
     title: "Urano",
     type: "Jovian Planets",
-    description: "The different rotation for other planets because the rotation from North to South same of Bowling",
+    description: "The different rotation for other planets because the rotation from North to South same of Bowlings",
     diameter: "50.724 km",
     orbitPeriod: "84 years",
     moon: "Titania, Oberon, Miranda, Ariel, Umbriel, oth"
