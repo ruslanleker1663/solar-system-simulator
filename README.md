@@ -43,8 +43,8 @@ Instalation
 
 ```
 npm create vite@latest my-threejs-app -- --template vanilla
-# or
+
 cd my-threejs-app
-# or 
+
 npm install three
 ``` 
