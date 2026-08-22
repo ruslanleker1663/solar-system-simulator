@@ -60,7 +60,7 @@ export const PLANET_DETAILS: Record<PlanetName, PlanetDetail> = {
   Neptune: {
     title: "Neptuno",
     type: "Jovian Planets",
-    description: "Planet paling luar di Tata Surya, terkenal dengan warna birunya yang pekat dan angin tercepat di Tata Surya.",
+    description: "The fars planet in solar system, coolers planet and the long revolution",
     diameter: "49.244 km",
     orbitPeriod: "165 years",
     moon: "Triton, Proteus, Nereid, oth"
